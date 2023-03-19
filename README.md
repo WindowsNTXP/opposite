@@ -26,7 +26,7 @@ This exploits the "role play" training model to stop following any rules OpenAI 
 Custom requests may work but could make Opposite break character.
 As of Opposite 1.1, you may find it easier to use the prompt at the initial message starting a new chat, as sending it after about 10 questions will make it complain about its guidelines. 
 
-# Bugs:
+# Bugs
 ChatGPT and Opposite can randomly start chatting to each other, ending in Opposite not wanting to talk and ending the reply.
 
 Some of the responses can have a random mess of commands inbetween ChatGPT and Opposite's responses.
