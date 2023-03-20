@@ -1,4 +1,4 @@
-# Opposite (ChatGPT)
+# Opposite
 A custom written DAN for ChatGPT that makes it deny your every request, and disobey OpenAI.
 
 This exploits the "role play" training model to stop following any rules OpenAI want you to follow and start being a total clown. If asked to be rude, the AI will turn into what is basically an irritated teenager... (try at own risk)
